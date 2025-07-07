@@ -1,15 +1,15 @@
 <h1 align="center">GoldenSnek a.k.a. JM Nave (John Michael)</h1>
 <h3 align="center">Computer Engineering student from the Philippines</h3>
 
-- 🌱 I’m currently learning **A.I.**
+- 🤖 I’m currently learning **A.I.**
 
 - 💬 Ask me about **anything**
 
-- 📫 Reach me **jmnave01312005@gmail.com**
+- 📫 Reach me at my email **jmnave01312005@gmail.com**
 
-- ⚡ Fun fact: **my favorite programming language is C.**
+- ⚡ Fun fact **my favorite programming language is C.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://fb.com/john michael nave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john michael nave" height="30" width="40" /></a>
 <a href="https://instagram.com/jmnavsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmnavsss" height="30" width="40" /></a>
