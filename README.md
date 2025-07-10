@@ -1,4 +1,4 @@
-<h1 align="center">GoldenSnek a.k.a. JM Nave (John Michael)</h1>
+<h1 align="center">Gølden (JM Nave)</h1>
 <h3 align="center">Computer Engineering student from the Philippines</h3>
 
 - 🤖 I’m currently learning **A.I.**
