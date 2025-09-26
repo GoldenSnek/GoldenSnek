@@ -1,7 +1,9 @@
 <h1 align="center">John Michael A. Nave</h1>
 <h3 align="center">Computer Engineering student from Cebu Institute of Technology - University</h3>
-<h4 align="center">Fun Fact: I am a noob at programming (100% real)</h4>
-<h6 align="center">Codename: Gølden | GoldenSnek | jmnavsss</h6>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFA500&center=true&width=1000&lines=I+am+a+noob+at+programming+(100%25+real);I+like+dogs+%3C3" alt="Typing SVG" />
+</a>
 
 <div align="center">
   
@@ -19,5 +21,5 @@
 
 #
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<h6 align="center">Dogs are better than cats</h6>
+<h6 align="center">Codename: Gølden | GoldenSnek | jmnavsss</h6>
 </div>
