@@ -16,6 +16,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #
+![Leetcode Stats](https://leetcode.card.workers.dev/Goldenavsss?theme=dark&font=baloo&extension=null)
+
+#
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenSnek&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=GoldenSnek&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GoldenSnek&theme=codeSTACKr&hide_border=true)<br/><br/>
@@ -23,5 +26,5 @@
 
 #
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<h6 align="center">Codename: Gølden | GoldenSnek | jmnavsss</h6>
+<h6 align="center">STAY HUMBLE</h6>
 </div>
