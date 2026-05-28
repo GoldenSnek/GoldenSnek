@@ -122,6 +122,53 @@
 </div>
 
 #
+<!-- 🚀 FEATURED PROJECTS SECTION -->
+
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <!-- Tuklascope Card -->
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
+      <h3><a href="https://github.com/Goldenavs/Tuklascope-Mobile">Tuklascope</a></h3>
+      <p><font color="#FFA500"><strong>Project Manager | Frontend Developer</strong></font></p>
+      <p>An AI-powered discovery lens application featuring multimodal vision integration for real-time object recognition and dynamic educational content generation tailored for hackathon environments.</p>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
+    </td>
+    <!-- CampuSee Card -->
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
+      <h3><a href="https://github.com/Goldenavs/CampuSee">CampuSee</a></h3>
+      <p><font color="#FFA500"><strong>Backend Developer</strong></font></p>
+      <p>A student-exclusive digital hub designed to optimize campus communication and resource sharing. Features robust secure student verification alongside live peer-to-peer connection utilities.</p>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <!-- GesturiX Card -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Goldenavs/GesturiX">GesturiX</a></h3>
+      <p><font color="#FFA500"><strong>Lead Developer | Frontend Designer</strong></font></p>
+      <p>A mobile sign language translation ecosystem connecting a high-performance React Native client to a localized PyTorch AI computer vision model for near-zero latency processing.</p>
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+    </td>
+    <!-- Docurion Card -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Goldenavs/Docurion">Docurion</a></h3>
+      <p><font color="#FFA500"><strong>Personal Project | Full-Stack Developer</strong></font></p>
+      <p>A specialized documentation engine that securely parses raw modular source code and translates complex structures into beautiful, standardized markdown readmes, API technical schemas, and blueprints.</p>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+#
 <!-- ![Leetcode Stats](https://leetcode.card.workers.dev/Goldenavsss?theme=dark&font=baloo&extension=null) -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Goldenavsss?theme=dark&font=baloo)
 <p align="center">
@@ -134,6 +181,11 @@
 
 #
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
-<h6 align="center"> ~ Your limits should always approach infinity, not zero ~ </h6>
-<img src="https://komarev.com/ghpvc/?username=Goldenavs&style=flat-square&color=orange" />
+<!-- <h6 align="center"> ~ Your limits should always approach infinity, not zero ~ </h6> -->
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FF8C00&height=120&section=footer&text=~%20Your%20limits%20should%20always%20approach%20infinity,%20not%20zero%20~&fontSize=22&fontColor=FAF9F6" width="100%" />
+</p>
+
 </div>
