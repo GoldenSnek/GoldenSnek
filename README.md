@@ -13,8 +13,7 @@
 ![snake gif](https://github.com/Goldenavs/Goldenavs/blob/output/github-snake-dark.svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmnavsss) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmnavsss) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC_vSZEMoOGz9LB9aZqZe6kg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmnavsss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-michael-nave-967342395/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/546196480143392768)
 <br/> <br/> [![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange?style=for-the-badge&logoColor=white)](https://goldenavs-dev-journal.vercel.app/)
