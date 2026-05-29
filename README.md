@@ -177,14 +177,12 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/><br/> -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Goldenavs&theme=codeSTACKr&hide_border=true) -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Goldenavs&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true) -->
-
-#
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 <!-- <h6 align="center"> ~ Your limits should always approach infinity, not zero ~ </h6> -->
 
 <!-- ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FF8C00&height=120&section=footer&text=~%20Your%20limits%20should%20always%20approach%20infinity,%20not%20zero%20~&fontSize=22&fontColor=FAF9F6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FF8C00&height=120&section=footer" width="100%" />
 </p>
 
 </div>
