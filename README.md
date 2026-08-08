@@ -149,7 +149,7 @@
     <!-- GesturiX Card -->
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Goldenavs/GesturiX">GesturiX</a></h3>
-      <p><font color="#FFA500"><strong>Lead Developer | Frontend Designer</strong></font></p>
+      <p><font color="#FFA500"><strong>Full-Stack Developer | Frontend Designer</strong></font></p>
       <p>A mobile sign language translation ecosystem connecting a high-performance React Native client to a localized PyTorch AI computer vision model for near-zero latency processing.</p>
       <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
